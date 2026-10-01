@@ -65,3 +65,31 @@ The central ethical concern is therefore not simply whether synthetic content is
 ## Synthetic-Media Statement
 
 No new synthetic-media artifacts were created for Task 7. No synthetic media depicting a real, identifiable person is included in this repository.
+
+## Project Completion & Key Takeaways
+
+This project is now complete across both phases.
+
+### Phase A – Ethical Analysis
+Phase A examined the ethical risks of synthetic media using the Task 6 artifact as the foundation. The analysis focused on:
+- Truthfulness and potential deception
+- Consent and representation
+- Context and misuse
+- Risks created by scale and distribution
+- Limitations of technical mitigation strategies
+- Accountability for creators, platforms, and organizations
+
+### Phase B – Governance and Policy
+Phase B translated the ethical analysis into an organizational policy framework. The policy includes:
+- Provenance and disclosure requirements
+- Human review and approval procedures
+- Conditions where synthetic media should not be used
+- Incident response procedures
+- Accountability and governance responsibilities
+- Residual risks and policy limitations
+
+## Final Reflection
+
+A major takeaway from this project is that technical safeguards alone cannot fully address the risks associated with synthetic media. Effective governance requires a combination of technical controls, disclosure practices, human oversight, organizational accountability, and clearly defined refusal conditions.
+
+The project also demonstrates the transition from identifying ethical risks in Phase A to developing actionable governance mechanisms in Phase B.
