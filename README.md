@@ -93,3 +93,11 @@ Phase B translated the ethical analysis into an organizational policy framework.
 A major takeaway from this project is that technical safeguards alone cannot fully address the risks associated with synthetic media. Effective governance requires a combination of technical controls, disclosure practices, human oversight, organizational accountability, and clearly defined refusal conditions.
 
 The project also demonstrates the transition from identifying ethical risks in Phase A to developing actionable governance mechanisms in Phase B.
+
+## Extended Case Study
+
+Following the completion of Phase A and Phase B, I extended the project by applying the governance framework to a hypothetical university career services environment.
+
+The case study evaluates the use of synthetic media for AI-powered career guidance and examines risks related to transparency, privacy, consent, bias, accuracy, and human oversight.
+
+[View the full case study](case-study-analysis.md)
